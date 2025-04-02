@@ -1,0 +1,2 @@
+# Pumpkin-leaf-dataset-merged-EDA-and-model-application-
+Pumpkin leaf dataset merged EDA and model application   Here two datasets are given. Both of the datasets are separated in Original and Augmented. I've merged the original data of both datasets and same way merge the augmented data of both datasets. Then I've to apply models on them. Here are the models : ResNext-50, DenseNet-201, ShuffleNet v2
